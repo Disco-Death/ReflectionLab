@@ -1,0 +1,15 @@
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\bin\Debug\FourthCoffee.TypeInspector.exe.config
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\bin\Debug\FourthCoffee.TypeInspector.exe
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\bin\Debug\FourthCoffee.TypeInspector.pdb
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csproj.AssemblyReference.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\MainWindow.baml
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\MainWindow.g.cs
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\App.g.cs
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector_MarkupCompile.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.g.resources
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.Properties.Resources.resources
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csproj.GenerateResource.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csproj.CoreCompileInputs.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.exe
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.Core\bin\Debug\FourthCoffee.Core.dll
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.Core\bin\Debug\FourthCoffee.Core.pdb
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.csproj.AssemblyReference.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.csproj.CoreCompileInputs.cache
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.dll
+D:\Downloads\ReflectionLab\ReflectionLab\ReflectionLab\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.Core\obj\Debug\FourthCoffee.Core.pdb
